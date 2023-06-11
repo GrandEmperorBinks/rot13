@@ -1,3 +1,5 @@
+# https://github.com/GrandEmperorBinks
+
 import json
 output = []     #create output list for use later on
 
